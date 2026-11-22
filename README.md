@@ -1,5 +1,3 @@
-# llm-evaluation-portfolio
-Evidence-based evaluation of LLM responses, AI agents, and visual AI outputs.
 # LLM Evaluation Portfolio
 
 ### Evidence-Based AI Quality Assessment
@@ -42,9 +40,9 @@ The project explores prompt design, input validation, trusted context, and reduc
 
 ## Portfolio Case Studies
 
-- Case Study 01 — Visual AI Evaluation
-- Case Study 02 — AI Agent Evaluation
-- Case Study 03 — LLM Response Evaluation
+- [Case Study 01 — Visual AI Evaluation](case-studies/case-study-01-visual-evaluation.md)
+- [Case Study 02 — AI Agent Evaluation](case-studies/case-study-02-ai-agent-evaluation.md)
+- [Case Study 03 — LLM Response Evaluation](case-studies/case-study-03-llm-response-evaluation.md)
 
 *These case studies are based on simulated training exercises and independent evaluation practice, not commercial client assignments.*
 
